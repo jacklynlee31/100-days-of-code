@@ -3,7 +3,7 @@ The <a href="https://twitter.com/elleluna/status/722483522213023744">100 Day Pro
 
 Every day I will be writing code (outside of my usual coding for work) and tracking it through this repository.
 
-(The code will eventually migrate to this repository, but for right now I'm using CodePen.)
+(All of the code will eventually migrate to this repository, but for right now I'm using CodePen.)
 
 My main goal for this is to build up my little to non-existant JavaScript and jQuery skills. 
 I'm also going to try to focus on vue.js, which is what we will be using more frequently at my place of work.
