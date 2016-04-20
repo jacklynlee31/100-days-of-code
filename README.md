@@ -13,6 +13,6 @@ I'm also going to try to focus on vue.js, which is what we will be using more fr
 <hr>
 
 <h3>Day One</h3>
-<img src="1.gif">
+![Day One](https://www.dropbox.com/s/0yz068l496mgtqr/day1.gif?dl=0)
 - <a href="https://codepen.io/jacklynlee31/pen/ONExBa">Click Here to View the CodePen</a>
 - Kicking off this project with a super simple exercise. I have done more complicated JavaScript and jQuery work in the past, but I haven't practiced it as much as I should since getting a job and diving head-first into all things Laravel/PHP. So I decided to start with something that I know how to do - clicking on an element and toggling the class. Check it out.
