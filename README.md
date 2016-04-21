@@ -16,3 +16,8 @@ I'm also going to try to focus on vue.js, which is what we will be using more fr
 <a href="https://codepen.io/jacklynlee31/pen/ONExBa">Click Here to View the CodePen</a><br><br>
 ![Day One](https://cloud.githubusercontent.com/assets/13090072/14675096/e77e0700-06cc-11e6-84d9-ffd73f883232.gif)<br>
 Kicking off this project with a super simple exercise. I have done more complicated JavaScript and jQuery work in the past, but I haven't practiced it as much as I should since getting a job and diving head-first into all things Laravel/PHP. So I decided to start with something that I know how to do - clicking on an element and toggling the class. Check it out.
+<br><br>
+<h3>Day Two</h3>
+<a href="http://codepen.io/jacklynlee31/pen/eZKLYM">Click Here to View the CodePen</a><br><br>
+![Day Two](https://cloud.githubusercontent.com/assets/13090072/14709687/9f1c2110-0797-11e6-8e39-bb84471b0d5e.gif)<br>
+For the second day, I went back to a project I did while at The Iron Yard - creating a keyboard. I built it without looking at my old project. The biggest misstep for me was trying to use 'html' and 'text' instead of 'innerHTML.' Once I figured that out, it was smooth sailing.
