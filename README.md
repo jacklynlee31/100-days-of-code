@@ -23,6 +23,6 @@ Kicking off this project with a super simple exercise. I have done more complica
 For the second day, I went back to a project I did while at The Iron Yard - creating a keyboard. I built it without looking at my old project. The biggest misstep for me was trying to use 'html' and 'text' instead of 'innerHTML.' Once I figured that out, it was smooth sailing.
 <br><br>
 <h3>Day Three</h3>
-<a href=""></a><br><br>
+<a href="http://codepen.io/jacklynlee31/pen/aNjZbJ">Click Here to View the CodePen</a><br><br>
 ![Day 3](https://cloud.githubusercontent.com/assets/13090072/14742443/deae26a0-0861-11e6-8945-443c6043765d.gif)<br>
 Dropdown menus have always been horrible for me. I could never understand the right way to nest things, or how to get the scripts to work properly. I thought this would take me a long time, but I got it to work pretty fast. I understand coding and code structure better, so maybe that helped me out for this.
