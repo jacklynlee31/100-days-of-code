@@ -26,3 +26,8 @@ For the second day, I went back to a project I did while at The Iron Yard - crea
 <a href="http://codepen.io/jacklynlee31/pen/aNjZbJ">Click Here to View the CodePen</a><br><br>
 ![Day 3](https://cloud.githubusercontent.com/assets/13090072/14742443/deae26a0-0861-11e6-8945-443c6043765d.gif)<br>
 Dropdown menus have always been horrible for me. I could never understand the right way to nest things, or how to get the scripts to work properly. I thought this would take me a long time, but I got it to work pretty fast. I understand coding and code structure better, so maybe that helped me out for this.
+<br><br>
+<h3>Day Four</h3>
+<a href="http://codepen.io/jacklynlee31/pen/wGxjdz">Click Here to View the CodePen</a><br><br>
+![Day 4](https://cloud.githubusercontent.com/assets/13090072/14758577/8492a4ac-08ca-11e6-84f8-714368d7af09.gif)
+Playing around with transitions, transforms and webkit filters. This is all done in CSS. A lot of the sites I work on utilize these kinds of effects in order to improve user experience. I'm usually working on the back-end of things, though, so I don't get to do a lot of CSS work. Some are subtle, some are a little more obnoxious (I see you, transform skewX).
