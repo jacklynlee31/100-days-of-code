@@ -31,3 +31,10 @@ Dropdown menus have always been horrible for me. I could never understand the ri
 <a href="http://codepen.io/jacklynlee31/pen/wGxjdz">Click Here to View the CodePen</a><br><br>
 ![Day 4](https://cloud.githubusercontent.com/assets/13090072/14758577/8492a4ac-08ca-11e6-84f8-714368d7af09.gif)<br>
 Playing around with transitions, transforms and webkit filters. This is all done in CSS. A lot of the sites I work on utilize these kinds of effects in order to improve user experience. I'm usually working on the back-end of things, though, so I don't get to do a lot of CSS work. Wondering if CSS is best practice, or if these are effects best handled by a script. I'm thinking CSS is more practical, but I could be wrong. I'll have to look into it.
+<br><br>
+<h3>Day Five</h3>
+<a href="http://codepen.io/jacklynlee31/pen/XdBGrX">Click Here to View the CodePen</a><br><br>
+![Day 5](https://cloud.githubusercontent.com/assets/13090072/14765375/bda13bde-09a4-11e6-8c5a-eb97502b383f.gif)<br>
+<br>
+I'm realizing that all my ideas for projects during these 100 days might be too easy. I've found jQuery UI, and it is absolutely amazing. One line of code allows you to do a hundred different things. I'm going to try to up the difficulty level on these projects so that I'm not just writing one line of code and calling it a day. In this project I have the 'draggable' function demonstrated in 3 different ways.
+<br><br>
