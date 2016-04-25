@@ -38,3 +38,9 @@ Playing around with transitions, transforms and webkit filters. This is all done
 <br>
 I'm realizing that all my ideas for projects during these 100 days might be too easy. I've found jQuery UI, and it is absolutely amazing. One line of code allows you to do a hundred different things. I'm going to try to up the difficulty level on these projects so that I'm not just writing one line of code and calling it a day. In this project I have the 'draggable' function demonstrated in 3 different ways.
 <br><br>
+<h3>Day Six</h3>
+<a href="http://codepen.io/jacklynlee31/pen/ZWMzgE">Click Here to View the CodePen</a><br><br>
+![Day 6](https://cloud.githubusercontent.com/assets/13090072/14784484/8185b798-0abb-11e6-82bc-b7df4add8bdd.gif)
+<br><br>
+I have done a modal before, but it was for a client and it was my first time trying it out. Creating it this time around was a lot easier. Modals, or modal-like features, are used a lot on websites these days. In my opinion, they are much cleaner and, in some ways, easier to implement than pop-ups.
+<br><br>
