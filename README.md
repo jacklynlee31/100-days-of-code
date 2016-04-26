@@ -44,3 +44,9 @@ I'm realizing that all my ideas for projects during these 100 days might be too 
 <br><br>
 I have done a modal before, but it was for a client and it was my first time trying it out. Creating it this time around was a lot easier. Modals, or modal-like features, are used a lot on websites these days. In my opinion, they are much cleaner and, in some ways, easier to implement than pop-ups.
 <br><br>
+<h3>Day Seven</h3>
+<a href="http://codepen.io/jacklynlee31/pen/jqvZJX">Click Here to View the CodePen</a><br><br>
+![Day 7](https://cloud.githubusercontent.com/assets/13090072/14819582/692a39e4-0b88-11e6-9d39-64a24cd67e8a.gif)
+<br><br>
+Followed a simple tutorial to make a ticking clock. There are still a few bugs I need to fix on this one. I've built a clock before, but I didn't do it quite this way, if I remember correctly. Either way, I like how it turned out.
+<br><br>
