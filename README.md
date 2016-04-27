@@ -56,3 +56,9 @@ Followed a simple tutorial to make a ticking clock. There are still a few bugs I
 <br><br>
 Followed another tutorial to create a photo slider. The photos change after a set number of seconds, using a transition to fade from one to the next. I'm sure you could use the same principles to create a photo slider that you manually change using arrows or something similar.
 <br><br>
+<h3>Day Nine</h3>
+<a href="http://codepen.io/jacklynlee31/pen/jqePZx">Click Here to View the CodePen</a><br><br>
+![Day 9](https://cloud.githubusercontent.com/assets/13090072/14868631/2e539420-0c94-11e6-8122-51b374e859b8.gif)
+<br><br>
+We are beginning to implement vue.js at work. We haven't started 100%, but we are playing around with it and dipping our toes in the water. I've been looking around for a simple way to create a ToDo list using javaScript/jQuery but couldn't find anything that felt 'simple' enough. I decided to dig into vue.js and was surprised at how easy it was. I'm looking forward to playing with it more.
+<br><br>
