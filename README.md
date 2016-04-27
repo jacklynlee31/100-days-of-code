@@ -50,3 +50,9 @@ I have done a modal before, but it was for a client and it was my first time try
 <br><br>
 Followed a simple tutorial to make a ticking clock. There are still a few bugs I need to fix on this one. I've built a clock before, but I didn't do it quite this way, if I remember correctly. Either way, I like how it turned out.
 <br><br>
+<h3>Day Eight</h3>
+<a href="http://codepen.io/jacklynlee31/pen/JXaeoK">Click Here to View the CodePen</a><br><br>
+![Day 8](https://cloud.githubusercontent.com/assets/13090072/14853127/d6d045b6-0c4f-11e6-82e6-0da1902fde2e.gif)
+<br><br>
+Followed another tutorial to create a photo slider. The photos change after a set number of seconds, using a transition to fade from one to the next. I'm sure you could use the same principles to create a photo slider that you manually change using arrows or something similar.
+<br><br>
