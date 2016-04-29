@@ -62,3 +62,9 @@ Followed another tutorial to create a photo slider. The photos change after a se
 <br><br>
 We are beginning to implement vue.js at work. We haven't started 100%, but we are playing around with it and dipping our toes in the water. I've been looking around for a simple way to create a ToDo list using javaScript/jQuery but couldn't find anything that felt 'simple' enough. I decided to dig into vue.js and was surprised at how easy it was. I'm looking forward to playing with it more.
 <br><br>
+<h3>Day 10</h3>
+<a href="http://codepen.io/jacklynlee31/pen/WwaXyW">Click Here to View the CodePen</a><br><br>
+![Day 10](https://cloud.githubusercontent.com/assets/13090072/14868631/2e539420-0c94-11e6-8122-51b374e859b8.gif)
+<br><br>
+Used vue.js to create a simple navigation menu. I'm starting to learn just how much vue.js can do with a minimal amount of code. Everything I've done so far with vue.js has been both simple and dynamic - meaning, changes don't happen after a form is processed or a page is refreshed. I'm going to continue on with learning some more vue.js skills for now.
+<br><br>
