@@ -80,3 +80,9 @@ I hate to admit that I'm behind on this project, but I am. I'm trying to catch u
 <br><br>
 I actually did something similar to this project for one of our clients. He just wanted the ability to switch from a grid view to a list view and back again. I suspected that there was a way to accomplish this using vue.js, and I was right. Vue just makes everything a little bit cleaner and easier to toggle.
 <br><br>
+<h3>Day 13</h3>
+<a href="http://codepen.io/jacklynlee31/pen/bpQKNE">Click Here to View the CodePen</a><br><br>
+![Day 13](https://cloud.githubusercontent.com/assets/13090072/14983943/cbdbdea8-1105-11e6-9004-8d52f2e09d3a.gif)
+<br><br>
+Still catching up! This one is another version of the editor I did previously. The difference being that this is a Markdown Editor, so you can use tags to create your content. Again, the content dynamically updates without re-loading the page.
+<br><br>
