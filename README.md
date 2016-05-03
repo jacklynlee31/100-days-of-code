@@ -68,3 +68,15 @@ We are beginning to implement vue.js at work. We haven't started 100%, but we ar
 <br><br>
 Used vue.js to create a simple navigation menu. I'm starting to learn just how much vue.js can do with a minimal amount of code. Everything I've done so far with vue.js has been both simple and dynamic - meaning, changes don't happen after a form is processed or a page is refreshed. I'm going to continue on with learning some more vue.js skills for now.
 <br><br>
+<h3>Day 11</h3>
+<a href="http://codepen.io/jacklynlee31/pen/YqRaZN">Click Here to View the CodePen</a><br><br>
+![Day 11](https://cloud.githubusercontent.com/assets/13090072/14983580/e058eb7a-1103-11e6-8728-1b708b899df6.gif)
+<br><br>
+I hate to admit that I'm behind on this project, but I am. I'm trying to catch up as much as I can this week and finish up any outstanding days this weekend. For Day 11 I continued playing with vue.js and created a very simple in-screen editor. You click the content, type whatever you want in the box, and it dynamically updates.
+<br><br>
+<h3>Day 12</h3>
+<a href="http://codepen.io/jacklynlee31/pen/NNEMOq">Click Here to View the CodePen</a><br><br>
+![Day 12](https://cloud.githubusercontent.com/assets/13090072/14983623/0c41162c-1104-11e6-9150-8fb2ddac90e2.gif)
+<br><br>
+I actually did something similar to this project for one of our clients. He just wanted the ability to switch from a grid view to a list view and back again. I suspected that there was a way to accomplish this using vue.js, and I was right. Vue just makes everything a little bit cleaner and easier to toggle.
+<br><br>
