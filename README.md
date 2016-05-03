@@ -86,3 +86,9 @@ I actually did something similar to this project for one of our clients. He just
 <br><br>
 Still catching up! This one is another version of the editor I did previously. The difference being that this is a Markdown Editor, so you can use tags to create your content. Again, the content dynamically updates without re-loading the page.
 <br><br>
+<h3>Day 14</h3>
+<a href="http://codepen.io/jacklynlee31/pen/mPabWb">Click Here to View the CodePen</a><br><br>
+![Day 14](https://cloud.githubusercontent.com/assets/13090072/14999856/8866af4e-1151-11e6-8f0a-1924a46d861f.gif)
+<br><br>
+Now I think I'm caught up? Regardless, this one was fun. I use DataTables a lot in projects because it's an easy way to create a table in Laravel that not only looks clean, but functions in a way where anyone can use it. I was wondering if there was a way to build a sortable table that didn't require a huge amount of code. Lo and behold, I found that vue.js can be used to do just that!
+<br><br>
